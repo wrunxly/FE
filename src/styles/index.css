@@ -1,0 +1,11 @@
+@import 'base.css';
+@import 'maps.css';
+@import 'loader.css';
+
+*{
+    overflow-y: 'auto';
+        ::-webkit-scrollbar {
+          background: 'transparent';
+          width: 0;
+        }
+}
